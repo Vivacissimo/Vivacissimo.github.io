@@ -11,3 +11,6 @@ vscode 열고 config.yml 'url'이랑 기타 설정 변경하기
 다 했는데 안된다 --->.git폴더--> pages-deploy 파일에서 branches: main만 살려두기 (master주석 처리)
 
 jekyll serve로 로컬 서버 연결
+
+------------------
+https://velog.io/@uzchu/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B9%83%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0
